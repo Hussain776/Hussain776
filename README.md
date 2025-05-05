@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hussain776
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning AI
 - 📫 How to reach me hatif776@gmail.com
 
 <!---
