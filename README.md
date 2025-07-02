@@ -20,7 +20,7 @@ I'm a Microsoft Certified Power BI Data Analyst with over 2 years of experience 
 
 ## 📚 Certifications
 
-- **Microsoft Certified: Power BI Data Analyst Associate**  
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**  
   *Issued: May 21, 2024*  
   [Credential Link](https://learn.microsoft.com/en-us/users/atifhussain-3032/credentials/2aee88f3a6573e12)
 
