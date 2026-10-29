@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Atif Hussain
 
-I'm a Microsoft Certified Power BI Data Analyst with over 2 years of experience in **Data Engineering**, **Data Analytics**, and **Python Automation**. I build scalable data workflows, automate reporting systems, and deliver business-ready insights using modern tools across Azure and Snowflake.
+I'm a Microsoft Certified Power BI Data Analyst with over 3 years of experience in **Data Engineering**, **Data Analytics**, and **Python Automation**. I build scalable data workflows, automate reporting systems, and deliver business-ready insights using modern tools across Azure and Snowflake.
 
 ## 💼 What I Do
 
